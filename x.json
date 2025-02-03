@@ -1,4 +1,4 @@
-let x = [
+[
   {
       "user": "jenna",
       "pass": "SPHSF8U2V"
@@ -6,4 +6,4 @@ let x = [
       "user": "james",
       "pass": "SPHWFZU4F"
   }
-];
+]
